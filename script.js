@@ -1,4 +1,8 @@
+"use strict";
+
+
 const numberOfFilms = +prompt("How much movies have you already seen?", "");
+
 
 
 const a = prompt("One of the last movies you watched?", ""),
